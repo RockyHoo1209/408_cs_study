@@ -1,6 +1,0 @@
-![1569756064402](C:\Users\Rocky\AppData\Roaming\Typora\typora-user-images\1569756064402.png)
-
-![1569756143626](C:\Users\Rocky\AppData\Roaming\Typora\typora-user-images\1569756143626.png)
-**注**：这题提供了极坐标二重积分的一个思路
-
-​		若图形最外层所围的是一个封闭图形，则角度积分,经x=rcosθ的转换可以转换成一个封闭区域上的曲线积分，用格林公式解决
